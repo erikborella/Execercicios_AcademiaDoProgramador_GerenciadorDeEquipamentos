@@ -1,0 +1,13 @@
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\bin\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.exe
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\bin\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.deps.json
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\bin\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.runtimeconfig.json
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\bin\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.runtimeconfig.dev.json
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\bin\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.dll
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\bin\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.pdb
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\obj\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.csprojAssemblyReference.cache
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\obj\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.AssemblyInfoInputs.cache
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\obj\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.AssemblyInfo.cs
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\obj\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.csproj.CoreCompileInputs.cache
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\obj\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.dll
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\obj\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.pdb
+C:\Users\erik0\source\repos\GerenciadorDeEquipamentos\GerenciadorDeEquipamentos\obj\Debug\netcoreapp3.1\GerenciadorDeEquipamentos.genruntimeconfig.cache
